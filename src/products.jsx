@@ -4,14 +4,14 @@ export const productsData = [
     name: "Mountain Bike Pro",
     price: 899.99,
     image:
-      "https://unsplash.com/photos/an-orange-bike-with-black-spokes-on-a-tan-background-Xd48Uq3Wm98",
+      "https://images.unsplash.com/photo-1571068316344-75bc76f77890?w=300&h=200&fit=crop",
   },
   {
     id: 2,
     name: "Road Racing Bike",
     price: 1299.99,
     image:
-      "https://images.unsplash.com/photo-1558618047-fd8dcd6c5f2c?w=300&h=200&fit=crop",
+      "https://images.unsplash.com/photo-1571068316344-75bc76f77890?w=300&h=200&fit=crop",
   },
   {
     id: 3,
@@ -39,14 +39,14 @@ export const productsData = [
     name: "Folding Bike",
     price: 299.99,
     image:
-      "https://images.unsplash.com/photo-1544191696-15693e32d14d?w=300&h=200&fit=crop",
+      "https://images.unsplash.com/photo-1502744688674-c619d1586c9e?w=300&h=200&fit=crop",
   },
   {
     id: 7,
     name: "Hybrid Comfort",
     price: 699.99,
     image:
-      "https://images.unsplash.com/photo-1558618047-fd8dcd6c5f2c?w=300&h=200&fit=crop",
+      "https://images.unsplash.com/photo-1502744688674-c619d1586c9e?w=300&h=200&fit=crop",
   },
   {
     id: 8,
@@ -67,14 +67,14 @@ export const productsData = [
     name: "Gravel Bike",
     price: 1499.99,
     image:
-      "https://images.unsplash.com/photo-1544191696-15693e32d14d?w=300&h=200&fit=crop",
+      "https://images.unsplash.com/photo-1502744688674-c619d1586c9e?w=300&h=200&fit=crop",
   },
   {
     id: 11,
     name: "Fixed Gear",
     price: 449.99,
     image:
-      "https://images.unsplash.com/photo-1558618047-fd8dcd6c5f2c?w=300&h=200&fit=crop",
+      "https://images.unsplash.com/photo-1502744688674-c619d1586c9e?w=300&h=200&fit=crop",
   },
   {
     id: 12,

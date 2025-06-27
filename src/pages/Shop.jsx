@@ -1,6 +1,5 @@
 import { useState } from "react";
 import "../App.css";
-import "../assets/bicycle_10";
 
 const ShopPage = ({ products, addToCart }) => {
   const [error, setError] = useState("");
