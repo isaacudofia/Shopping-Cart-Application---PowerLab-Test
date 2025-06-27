@@ -1,12 +1,50 @@
-# React + Vite
+# Shopping Cart Application - PowerLab Test
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React e-commerce application for browsing and purchasing bicycles with shopping cart and coupon functionality.
 
-Currently, two official plugins are available:
+## Quick Start
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Clone the repository:**
 
-## Expanding the ESLint configuration
+   ```bash
+   git clone https://github.com/isaacudofia/Shopping-Cart-Application---PowerLab-Test.git
+   cd Shopping-Cart-Application---PowerLab-Test
+   ```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
+
+3. **Run the application:**
+
+   ```bash
+   npm run dev
+   ```
+
+4. **Open browser:** `http://localhost:5173/`
+
+## Features
+
+- Browse 12+ bicycle products
+- Add/remove items from cart
+- Update quantities
+- Apply coupon code: **POWERLABSx** (13.2% discount)
+- Responsive design
+
+## Usage
+
+- **Navigate**: HOME → SHOP → ABOUT US → SHOPPING BAG
+- **Shop**: Click "Add to Cart" on products
+- **Cart**: Manage quantities, apply coupon, view total
+- **Coupon**: Enter "POWERLABSx" in cart for discount
+
+## Build for Production
+
+```bash
+npm run build
+```
+
+Done! 🚴‍♂️
+Happy Shopping By Isaac Godwin Udofia
