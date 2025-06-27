@@ -1,5 +1,9 @@
 # Shopping Cart Application - PowerLab Test
 
+## 🌐 Live Demo
+
+**[View Live Application](https://isaac-shoppingcart-powerlab.netlify.app/)**
+
 A React e-commerce application for browsing and purchasing bicycles with shopping cart and coupon functionality.
 
 ## Quick Start
